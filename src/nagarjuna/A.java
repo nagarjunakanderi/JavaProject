@@ -5,7 +5,7 @@ public class A
 int i;
 int j;
 
-// nagarjuna
+// nagarjunaK
 void funA()
 {
 	System.out.println("funA of classA");
